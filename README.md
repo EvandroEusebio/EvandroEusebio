@@ -10,7 +10,6 @@
 
 - 👨‍💻 More at [meu-portifolio-one-delta.vercel.app](https://meu-portifolio-one-delta.vercel.app/)
 
-<!--
 
 <br><br>
 
@@ -40,7 +39,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=evandroeusebio&show_icons=true&theme=radical"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/wakatime?username=chocolate&theme=radical"/>
 </p>
--->
+
 
 <br><br>
 
@@ -48,7 +47,7 @@
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/evandro-eus%C3%A9bio-121a5a26a/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-evandro-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 </p>
 
