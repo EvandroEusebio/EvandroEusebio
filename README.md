@@ -32,16 +32,6 @@
 
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evandroeusebio&layout=compact&theme=radical"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=evandroeusebio&show_icons=true&theme=radical"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/wakatime?username=chocolate&theme=radical"/>
-</p>
-
-
-<br><br>
 
 ## Contact
 
@@ -51,8 +41,18 @@
 </a>
 </p>
 
-<!--
+## ⚙️ &nbsp;GitHub Analytics
 
+<p align="left" padding-top=20>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evandroeusebio&layout=compact&theme=radical"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=evandroeusebio&show_icons=true&theme=radical"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/wakatime?username=chocolate&theme=radical"/>
+</p>
+
+
+<br><br>
+
+<!--
 <img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
 
 
